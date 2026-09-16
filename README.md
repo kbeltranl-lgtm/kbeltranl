@@ -3,7 +3,9 @@
 ¡Hola! 👋 Soy Karen Beltrán
 
 🎓 Estudiante de Estadística — Universidad Nacional de Colombia
+
 📊 Interesada en análisis de datos, modelamiento estadístico y visualización de datos
+
 💃 Bailarina profesional
 ————-
 
@@ -19,8 +21,3 @@ Además de mi formación académica, soy bailarina profesional. La danza me ha p
 
 Creo en el aprendizaje constante y en la combinación entre el pensamiento analítico y la creatividad.
 
-📊 Statistics | Data Analytics 
-
-🎓 Universidad Nacional de Colombia 
-
-💃 Professional Dancer
