@@ -7,7 +7,8 @@
 📊 Interesada en análisis de datos, modelamiento estadístico y visualización de datos
 
 💃 Bailarina profesional
-————-
+
+————
 
 📊 Sobre mí
 
